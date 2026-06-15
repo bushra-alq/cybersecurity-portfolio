@@ -7,9 +7,10 @@ President of the Cybersecurity Club and passionate about cybersecurity, security
 
 ## Certifications
 - Security+ (In Progress)
-- Suplunk Core Certified User ( Planned)
+- Splunk Core Certified User ( Planned)
 - CompTIA CySA+ (Planned)
 - Microsoft SC-200 (Planned)
+- BTL1 -Blue Team Level 1 (Planned)
 
 ## Projects
 - Cybersecurity Portfolio Website (In Progress)
@@ -19,8 +20,10 @@ President of the Cybersecurity Club and passionate about cybersecurity, security
 - Cybersecurity Fundamentals
 - Linux
 - IT Support
-- Security Operation
+- Security Operations
 - Incident Response
+- Risk Assesment
+- Vulnerability Managment
 
 ## Contact
 LinkedIn: Coming Soon
